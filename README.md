@@ -1,4 +1,4 @@
-# Ugolisa's Student Portfolio (ICT251 Activity 3)
+# Miyato's Student Portfolio (ICT251 Activity 3)
 
 A personal portfolio website built for **ICT251 Web Technologies** at Mulungushi University.
 It improves my Activity 2 page with a professional design, a responsive layout and four JavaScript features.
